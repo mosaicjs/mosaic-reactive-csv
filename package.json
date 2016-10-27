@@ -1,6 +1,6 @@
 {
   "name": "mosaic-reactive-csv",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "CSV read/write library",
   "main": "index.js",
   "scripts": {
